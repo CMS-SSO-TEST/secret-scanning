@@ -1,2 +1,2 @@
 # testing-token-with-no-access
-test-dummy = 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
+dummy = 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
