@@ -1,3 +1,3 @@
 # Dummmy AWS token
-Access key ID =
-Secret_Access_Key = 
+Access Key ID: AKIAZXH6YN2W7NFYHEO5
+Secret Access Key: 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
