@@ -1,3 +1,3 @@
 # Dummmy AWS token
-Access Key ID:
-Secret Access Key: 
+Access Key ID: dummyuser
+Secret Access Key: dummypassword
