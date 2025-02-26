@@ -1,2 +1,2 @@
 # secret-scanning
-Repo used by testing secret scanning with dummy secrets
+Repo used by testing secret scanning with dummy secrets.
