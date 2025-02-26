@@ -1,2 +1,2 @@
 # secret-scanning
-Repo used by Numbus Team for testing
+Repo used by testing secret scanning with dummy secrets
